@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.image {
+  height: 10vh;
+  width: 30vw;
+  border-radius: 10px;
+}
+.text {
+  color: black;
+  font-size: 19px;
+  font-weight: 100;
+}

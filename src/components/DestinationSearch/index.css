@@ -1,0 +1,13 @@
+.background {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: black;
+  font-size: 26px;
+  font-weight: bold;
+}
+.searchIcon {
+  height: 15px;
+}
